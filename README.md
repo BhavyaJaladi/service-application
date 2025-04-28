@@ -1,4 +1,4 @@
-# microservice-application
+# service-application
 
 ## Pre-requisites
 * EC2 Instance
